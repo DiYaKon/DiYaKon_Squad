@@ -1,2 +1,2 @@
 # DiYaKon_Squad
-Just learn something (now - Web)
+Just learning something (now - Web)
